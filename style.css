@@ -1,8 +1,46 @@
-#searchBar {
-  margin: 15px 10px;
-}
-
 .tableWrapper {
   max-height: 400px;
   overflow: auto;
+}
+
+.textToRight {
+  text-align: right;
+}
+
+.jumbotron {
+  margin-top: 20px;
+}
+
+#infoAddSearch {
+  background-color: #ffa144;
+}
+
+h1#title:hover, h1#title:active {
+  color: #5bc0de;
+}
+
+.landing-title {
+  padding: 10px;
+  color: #ffa144;
+  font-family: Arial Rounded MT Bold;
+  font-size: 600%;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  color: #ffa144;
+}
+
+h5 {
+  color: #ffa144;
+}
+
+h3 {
+  color: #5bc0de;
 }
